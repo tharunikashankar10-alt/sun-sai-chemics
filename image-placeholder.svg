@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0b1f33"/><stop offset="1" stop-color="#1d78a8"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#g)"/>
+<circle cx="930" cy="160" r="180" fill="#4bb6d7" opacity=".12"/>
+<text x="80" y="300" fill="white" font-family="Arial" font-size="58" font-weight="700">SUN SAI CHEMICS</text>
+<text x="80" y="360" fill="#cfe8f1" font-family="Arial" font-size="25">Replace this with the client's official company image</text>
+</svg>
